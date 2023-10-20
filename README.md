@@ -5,7 +5,7 @@ Nando Rey
 
 # Leit-Satz
 
-In der zweiten Lernperiode möchte ich mehr Programmieren
+In der zweiten Lernperiode möchte ich mehr Programmieren verstehen und anwende können
 
 # Arbeitspakete für 20.10.2023
 
