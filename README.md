@@ -8,3 +8,6 @@ Nando Rey
 In der zweiten Lernperiode möchte ich mehr Programmieren
 
 # Arbeitspakete für 20.10.2023
+
+[x]
+[x]
