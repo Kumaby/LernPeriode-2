@@ -15,4 +15,4 @@ Heute habe ich an dem Modul 319 weitergearbeitet, ich konnte mich in den ersten 
 
 # Arbeitspakete für 27.10.2023
 
-- [ ] Am Gruppenprojekt arbeiten
+- [ ] Am Portfolio vom Modul 319 arbeiten
