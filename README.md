@@ -27,3 +27,10 @@ Ich habe wie geschrieben an dem Portfolio gearbeitet und bin sehr gut vorangekom
 - [ ] Einen Plan für das Game festhalten, wie ich die nächsten male arbeiten werde
 
 Ich konnte nicht wirklich arbeiten da ich krank war/bin und es mir deshalb nicht sehr gut ging. Ich konnte jedoch am Freitag Nachmittag doch noch ein bisschen arbeiten und habe alle teil Aufträge vom Auftrag 6904 erarbeiten, ich war aber nicht sehr konzentriert, weil ich Kopfschmerzen hatte und ich sehr müde war. (52)
+
+# Arbeitspakete für 10.11.2023
+
+- [ ] Gruppenprojekt
+- [ ] Gruppenprojekt
+- [ ] Das Grundprinzip meines games auf Word schriftlich bestimmen und festhalten
+- [ ] Einen Plan für das Game festhalten, wie ich die nächsten male arbeiten werde
