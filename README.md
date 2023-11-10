@@ -32,5 +32,5 @@ Ich konnte nicht wirklich arbeiten da ich krank war/bin und es mir deshalb nicht
 
 - [ ] Gruppenprojekt
 - [ ] Gruppenprojekt
-- [ ] Das Grundprinzip meines games auf Word schriftlich bestimmen und festhalten
-- [ ] Einen Plan für das Game festhalten, wie ich die nächsten male arbeiten werde
+- [ ] M162 6906 lösen
+- [ ] M162 6907 lösen
