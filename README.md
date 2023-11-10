@@ -30,7 +30,9 @@ Ich konnte nicht wirklich arbeiten da ich krank war/bin und es mir deshalb nicht
 
 # Arbeitspakete für 10.11.2023
 
-- [ ] Gruppenprojekt
-- [ ] Gruppenprojekt
+- [x] Gruppenprojekt
+- [x] Gruppenprojekt
+- [x] M162 6905 lösen
 - [ ] M162 6906 lösen
-- [ ] M162 6907 lösen
+
+Ich habe heute vorallem zusammen mit Abbas an dem Gruppenprojekt sehr viel gearbeitet und wir haben sehr gut zusammen gearbeitet. Abbas, Neo, Jamie und Ich sind fast fertig mit dem Projekt. Nach der Projektarbeit habe ich am Modul 162 gearbeitet und bin nur mit dem auftrag 6905 fertig geworden da die Gruppenarbeit länger als gedacht gebraucht hat. (57)
