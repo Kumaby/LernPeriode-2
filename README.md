@@ -36,3 +36,19 @@ Ich konnte nicht wirklich arbeiten da ich krank war/bin und es mir deshalb nicht
 - [ ] M162 6906 lösen
 
 Ich habe heute vorallem zusammen mit Abbas an dem Gruppenprojekt sehr viel gearbeitet und wir haben sehr gut zusammen gearbeitet. Abbas, Neo, Jamie und Ich sind fast fertig mit dem Projekt. Nach der Projektarbeit habe ich am Modul 162 gearbeitet und bin nur mit dem auftrag 6905 fertig geworden da die Gruppenarbeit länger als gedacht gebraucht hat. (57)
+
+# Arbeitspakete für 17.11.2023
+
+- [x] M162 6907
+- [x] M162 6908
+- [x] M162 6908
+
+Heute habe ich alleine an dem Modul 162 gearbeitet da ich am Mittwoch in den Informatik Lektionen fast nichts gemacht habe und das Thema kaum verstehe. Ich habe zwar gut gearbeitet aber verstehe es immer noch nicht ganz und muss das Thema definitiv noch mehr anschauen. Im Grossen und Ganzen habe ich gut und Konzentriert gearbeitet. (56)
+
+# Arbeitspakete für 24.11.2023
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
