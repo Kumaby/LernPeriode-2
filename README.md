@@ -47,8 +47,8 @@ Heute habe ich alleine an dem Modul 162 gearbeitet da ich am Mittwoch in den Inf
 
 # Arbeitspakete für 24.11.2023
 
-- [ ] 
-- [ ] 
+- [ ] Visual Paradigm für M162 einrichten
+- [ ] Visual Paradigm Grundlagen verstehen
 - [ ] 
 - [ ] 
 
