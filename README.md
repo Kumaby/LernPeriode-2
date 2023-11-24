@@ -47,13 +47,15 @@ Heute habe ich alleine an dem Modul 162 gearbeitet da ich am Mittwoch in den Inf
 
 # Arbeitspakete für 24.11.2023
 
-- [ ] Visual Paradigm für M162 einrichten
-- [ ] Visual Paradigm Grundlagen verstehen
-- [ ] Gruppenprojekt aufgaben besprechen / diese aufgaben ausführen
-- [ ] weiter aufgaben erarbeiten
+- [x] Visual Paradigm für M162 einrichten
+- [x] Visual Paradigm Grundlagen verstehen
+- [x] Gruppenprojekt aufgaben besprechen / diese aufgaben ausführen
+- [x] weiter aufgaben erarbeiten
 
 Heute habe ich probiert das Programm Visual Paradigm einzurichten und es zu verstehen. Ich hatte grosse probleme, da ich keine richtige Anleitung gefunden habe. Als ich es eingerichtet habe musste ich 10 Minuten suchen, bis ich es geschafft habe die Sprache zu ändern und eine gute lektion um das erste Projekt richtig einzurichten. Nach dem ging es aber eher gut weiter. Beim Gruppenprokekt war ich weniger konzentriert nud konnte nicht mehr gut arbeiten.(73)
 
 # Arbeitspakete für 01.12.2023
 
-
+- [ ] M162 Für den Test lernen
+- [ ] M162 immer noch für den Test lernen
+- [ ] M162 mit Abbas lernen
