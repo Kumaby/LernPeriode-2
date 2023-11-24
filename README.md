@@ -52,3 +52,8 @@ Heute habe ich alleine an dem Modul 162 gearbeitet da ich am Mittwoch in den Inf
 - [ ] Gruppenprojekt aufgaben besprechen / diese aufgaben ausführen
 - [ ] weiter aufgaben erarbeiten
 
+Heute habe ich probiert das Programm Visual Paradigm einzurichten und es zu verstehen. Ich hatte grosse probleme, da ich keine richtige Anleitung gefunden habe. Als ich es eingerichtet habe musste ich 10 Minuten suchen, bis ich es geschafft habe die Sprache zu ändern und eine gute lektion um das erste Projekt richtig einzurichten. Nach dem ging es aber eher gut weiter. Beim Gruppenprokekt war ich weniger konzentriert nud konnte nicht mehr gut arbeiten.(73)
+
+# Arbeitspakete für 01.12.2023
+
+
