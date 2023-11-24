@@ -49,6 +49,6 @@ Heute habe ich alleine an dem Modul 162 gearbeitet da ich am Mittwoch in den Inf
 
 - [ ] Visual Paradigm für M162 einrichten
 - [ ] Visual Paradigm Grundlagen verstehen
-- [ ] 
-- [ ] 
+- [ ] Gruppenprojekt aufgaben besprechen / diese aufgaben ausführen
+- [ ] weiter aufgaben erarbeiten
 
