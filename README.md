@@ -56,6 +56,6 @@ Heute habe ich probiert das Programm Visual Paradigm einzurichten und es zu vers
 
 # Arbeitspakete für 01.12.2023
 
-- [ ] M162 Für den Test lernen
-- [ ] M162 immer noch für den Test lernen
-- [ ] M162 mit Abbas lernen
+- [ ] M162 Visual Paradigm entitys und Attribute verstehen
+- [ ] M162 Visual Paradigm entity-Relationships verstehen
+- [ ] M162 Primär- und Fremdschlüssel verstehen
