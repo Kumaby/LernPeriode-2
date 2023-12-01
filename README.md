@@ -56,6 +56,16 @@ Heute habe ich probiert das Programm Visual Paradigm einzurichten und es zu vers
 
 # Arbeitspakete für 01.12.2023
 
-- [ ] M162 Visual Paradigm entitys und Attribute verstehen
-- [ ] M162 Visual Paradigm entity-Relationships verstehen
-- [ ] M162 Primär- und Fremdschlüssel verstehen
+- [x] M162 Visual Paradigm entitys und Attribute verstehen
+- [x] M162 Visual Paradigm entity-Relationships verstehen
+- [x] M162 Primär- und Fremdschlüssel verstehen
+
+Heute habe ich sehr gut für die Prüfung im Modul 162 geübt. in dem ich das Programm Visual Paradigm gelernt habe zu verstehen, am anfang habe ich die entitys und die attribute gelernt, was mir gut gelungen ist, danach habe ich die entity-relationships gelernt, was ich anfangs nicht richtig verstanden habe aber dann doch gekonnt habe, und zum schluss habe ich mir die Primärschlüssel und Fremdschlüssel angeschaut, womit ich am meisten Probleme habe und noch mehr lernen muss. Ich bin aber mit meiner Leistung zufrieden. (85)
+
+# Arbeitspakete für 08.12.2023
+
+(Ich weiss leider noch nicht was ich nächste Woche machen will, werde es im Laufe der Woche noch ändern)
+
+- [ ]
+- [ ]
+- [ ]
