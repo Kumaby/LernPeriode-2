@@ -68,7 +68,10 @@ Heute habe ich sehr gut für die Prüfung im Modul 162 geübt. in dem ich das Pr
 
 # Arbeitspakete für 15.12.2023
 
-- [ ] M117 IPv4 verstehen (aufgabe)
-- [ ] M117 IPv4 Adressierung (aufgabe)
+- [ ] M117 IPv4 verstehen (Aufgabe)
+- [ ] M117 IPv4 Adressierung (Aufgabe)
 - [ ] M117 IPv4 Konfiguration (Aufgabe)
 - [ ] Moodle-Tests von den 3 Aufgaben abschliessen
+
+
+# Arbeitspakete für 22.12.2023
