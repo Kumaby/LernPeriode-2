@@ -73,7 +73,7 @@ Heute habe ich sehr gut für die Prüfung im Modul 162 geübt. in dem ich das Pr
 - [x] M117 IPv4 Konfiguration (Aufgabe)
 - [ ] Moodle-Tests von den 3 Aufgaben abschliessen
 
-Ich habe heute in der ersten Lektion nicht sehr gut gearbeitet und oknnte das erste Arbeitspaket nicht abschliessen, dadurch hat sich alles verschoben und habe alles später gemacht.Ich konnte jedoch gut lernen und habe viel gearbeitet, obwohl ich die Zeit für die Moodle.Tests nicht mehr hatte. Ich bin trotzdem glücklich mit meiner arbeit, obwohl ich die Aufgaben ein wenig unterschätzt habe, konnte sie aber doch bewältigen. (66)
+Ich habe heute in der ersten Lektion nicht sehr gut gearbeitet und konnte das erste Arbeitspaket nicht abschliessen, dadurch hat sich alles verschoben und habe alles später gemacht.Ich konnte jedoch gut lernen und habe viel gearbeitet, obwohl ich die Zeit für die Moodle.Tests nicht mehr hatte. Ich bin trotzdem glücklich mit meiner arbeit, obwohl ich die Aufgaben ein wenig unterschätzt habe, konnte sie aber doch bewältigen. (66)
 
 # Arbeitspakete für 22.12.2023
 
