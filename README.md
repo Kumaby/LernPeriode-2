@@ -77,5 +77,14 @@ Ich habe heute in der ersten Lektion nicht sehr gut gearbeitet und konnte das er
 
 # Arbeitspakete für 22.12.2023
 
-- [ ] M117 Moodle-Test Ipv4 verstehen. Moodle-Test Adressierung anfangen
-- [ ] M117 Moodle-Test Adressierung und Konfiguration beenden
+- [x] M117 Moodle-Test Ipv4 verstehen. Moodle-Test Adressierung anfangen
+- [x] M117 Moodle-Test Adressierung und Konfiguration beenden
+
+Heute habe ich die Moodle Tests nachgeholt, die ich in den Arbeitspaketen von Letzter Woche nicht fertigstellen konnte, es ging mit dem Repetieren sehr gut, ich habe es auch noch bei dem Informatik Unterricht bei Herrn Fähndrich schon repetiert und konnte deshalb mit Leichtigkeit eine gute Punktzahl holen. Ich war gut konzentriert und bin stolz auf meine Arbeit. (58)
+
+# Reflexion LP-2
+
+In dieser Lernperiode hatte ich mir vorgenommen an einem Projekt zu arbeiten und nicht nur an den Modulen zu arbeiten. Anfangs war ich auch noch motiviert, mit diesem Projekt anzufangen und s auch fertig zu stellen, jedoch kamen die Module doch noch dazwischen. Die Module waren zu schwer um sie nur an einem einzelnen Tag in der Woche zu bearbeiten, also habe ich im Lernatelier auch daran gearbeitet, aber ich musste das Projekt vernachlässigen, damit ich in den Modulen vorankomme. Nach den ersten 3 Wochen in de LP-2, habe ich das Projekt vergessen, weil ich immer mit den Modulen zu tun hatte. Mit den Modulen klappte es jedoch immer bis auf den einen Test, in dem ich einfach nicht gut war. (121)
+
+# Verbesserungsvorschlag
+
