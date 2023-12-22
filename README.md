@@ -86,5 +86,6 @@ Heute habe ich die Moodle Tests nachgeholt, die ich in den Arbeitspaketen von Le
 
 In dieser Lernperiode hatte ich mir vorgenommen an einem Projekt zu arbeiten und nicht nur an den Modulen zu arbeiten. Anfangs war ich auch noch motiviert, mit diesem Projekt anzufangen und s auch fertig zu stellen, jedoch kamen die Module doch noch dazwischen. Die Module waren zu schwer um sie nur an einem einzelnen Tag in der Woche zu bearbeiten, also habe ich im Lernatelier auch daran gearbeitet, aber ich musste das Projekt vernachlässigen, damit ich in den Modulen vorankomme. Nach den ersten 3 Wochen in de LP-2, habe ich das Projekt vergessen, weil ich immer mit den Modulen zu tun hatte. Mit den Modulen klappte es jedoch immer bis auf den einen Test, in dem ich einfach nicht gut war. (121)
 
-# Verbesserungsvorschlag
+# Verbesserungsvorschläge
 
+Ich finde ich habe eine eshr gute Arbeit geleistet, aber ich sollte in den anderen Informatiklektionen mehr arbeiten, damit ich im Lernatelier besser an einem Projekt arbeiten kann, vielleicht wird das schwierig werden, versuchen muss ich es aber. 
