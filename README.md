@@ -88,4 +88,4 @@ In dieser Lernperiode hatte ich mir vorgenommen an einem Projekt zu arbeiten und
 
 # Verbesserungsvorschläge
 
-Ich finde ich habe eine eshr gute Arbeit geleistet, aber ich sollte in den anderen Informatiklektionen mehr arbeiten, damit ich im Lernatelier besser an einem Projekt arbeiten kann, vielleicht wird das schwierig werden, versuchen muss ich es aber. 
+Ich finde ich habe eine eher gute Arbeit geleistet, aber ich sollte in den anderen Informatiklektionen mehr arbeiten, damit ich in den Tests besser Noten machen kann, vielleicht wird das schwierig werden, versuchen muss ich es aber. 
